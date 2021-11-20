@@ -974,9 +974,9 @@ Page Loader
 
 @media (max-width: 768px) {
 
-    /* * {
+    * {
         cursor: none;
-    } */
+    }
 
     .heading {
         font-size: 6rem;
